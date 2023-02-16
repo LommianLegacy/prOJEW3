@@ -33,3 +33,4 @@ while bulls < 4 :
     tries += 1
 print(f"you took {tries} tries")
 #i like it
+#brandyns words
