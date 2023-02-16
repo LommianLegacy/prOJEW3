@@ -18,7 +18,7 @@ bulls=0
 cow=0
 tries=0
 while bulls < 4 :
-    print(secret)
+    
     guess = input("Guess a 4 number string: ")
     cow=0
     bulls=0
@@ -32,3 +32,4 @@ while bulls < 4 :
 
     tries += 1
 print(f"you took {tries} tries")
+#i like it
